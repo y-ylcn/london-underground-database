@@ -119,8 +119,8 @@ london-underground-database/
 │   └── relational-schema.png
 ├── report/
 │   └── London_Underground_Database_Report.pdf
-├── london_underground.sql
-└── README.md
+├── README.md
+└── london_underground.sql
 ```
 
 `london_underground.sql` contains everything in run order: table definitions, triggers, sample data, views and queries.
